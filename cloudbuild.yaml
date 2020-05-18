@@ -22,4 +22,4 @@ steps:
 
   - env: "PORT=8080"
 
-  - images: gcr.io/$PROJECT_ID/websocket
+  - images: gcr.io/websocket-277605/websocket
